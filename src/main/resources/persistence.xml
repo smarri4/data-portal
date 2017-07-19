@@ -1,0 +1,20 @@
+<persistence>
+    <persistence-unit name="user">
+
+        <class>edu.uic.cri.portal.model.entities.User</class>
+
+    </persistence-unit>
+    
+    <persistence-unit name="project_membership">
+
+        <class>edu.uic.cri.portal.model.entities.ProjectMembership</class>
+
+    </persistence-unit>
+    
+    <persistence-unit name="release">
+
+        <class>edu.uic.cri.portal.model.entities.ProjectMembership</class>
+
+    </persistence-unit>
+    
+</persistence>

@@ -1,0 +1,2 @@
+<%@ tag language="java" pageEncoding="ISO-8859-1"%>
+<header><h1><a href="<%= request.getContextPath() %>/">CRI Data Portal</a> <span style="float:right">Logged in as <%=request.getRemoteUser() %></span></h1></header>
